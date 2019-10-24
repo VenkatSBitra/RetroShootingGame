@@ -16,4 +16,9 @@ To shoot:
 # Game Idea
 Fight the mobs until your health drops to zero.
 
+# INFO
+single player game
+from progressive pygame developer
+
 # Enjoy the Game
+
